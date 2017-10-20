@@ -10,8 +10,24 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+p {
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+}
+
 a {
   font-size: 16px;
   font-weight: normal;
   color:aquamarine;
+}
+
+p.copyright {
+  text-align: right;
 }
